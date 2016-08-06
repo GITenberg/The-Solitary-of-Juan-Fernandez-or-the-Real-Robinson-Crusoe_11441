@@ -1,0 +1,40 @@
+_repo: The-Solitary-of-Juan-Fernandez-or-the-Real-Robinson-Crusoe_11441
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wood, Anne Topan Wilbur
+    alias: Wood, Anne Toppan Wilbur
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '40266'
+    url: http://www.gutenberg.org/2009/agents/40266
+creator:
+  author:
+    agent_name: Xavier, M.
+    aliases:
+    - Saintine, Joseph-Xavier Boniface
+    - Boniface, Joseph-Xavier
+    - Saintine, X. B.
+    birthdate: 1798
+    deathdate: 1865
+    gutenberg_agent_id: '3984'
+    url: http://www.gutenberg.org/2009/agents/3984
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Saintine
+    - http://en.wikipedia.org/wiki/Joseph_Xavier_Saintine
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Selkirk, Alexander, 1676-1721 -- Fiction'
+- !lcsh 'Shipwreck victims -- Fiction'
+- GITenberg
+title: The Solitary of Juan Fernandez, or the Real Robinson Crusoe
+url: http://www.gutenberg.org/ebooks/11441
