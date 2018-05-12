@@ -1,5 +1,5 @@
 _repo: The-Solitary-of-Juan-Fernandez-or-the-Real-Robinson-Crusoe_11441
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Wood, Anne Topan Wilbur
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1864
     gutenberg_agent_id: '40266'
     url: http://www.gutenberg.org/2009/agents/40266
+covers:
+- cover_type: archival
+  image_path: 11441-h/images/cover.jpg
 creator:
   author:
     agent_name: Xavier, M.
@@ -23,6 +26,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Saintine
     - http://en.wikipedia.org/wiki/Joseph_Xavier_Saintine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11441#The-Solitary-of-Juan-Fernandez-or-the-Real-Robinson-Crusoe
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
